@@ -1,0 +1,17 @@
+/vim74
+/*.vim
+
+/vimfiles/.vim
+/vimfiles/init.vim
+/vimfiles/.init.vim-rplugin~
+
+/vimfiles/bundle/YouCompleteMe
+/vimfiles/bundle/YCM-Generator
+/vimfiles/bundle/editorconfig
+
+Thumbs.db
+.DS_Store
+*.pyc
+*.cache
+*.swp
+tags
