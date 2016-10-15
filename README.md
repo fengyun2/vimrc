@@ -2,7 +2,7 @@
 
 ----
 
-##### 配置文件的着色版本：`http://www.fengyun2.com/public/_vimrc.html`
+##### 配置文件的着色版本：`http://www.ruchee.com/public/_vimrc.html`
 
 -----
 
