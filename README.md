@@ -1,4 +1,4 @@
-![Vim fengyun2](https://raw.github.com/fengyun2/vimrc/master/macvim.jpg "Vim fengyun2")
+![Vim fengyun2](https://raw.github.com/fengyun2/vimrc/dev/macvim.jpg "Vim fengyun2")
 
 ----
 
